@@ -39,11 +39,11 @@ This project provides a robust, production-ready solution for predicting Custome
 - Modify business assumptions in the business_impact_analysis method as needed
 
 ## Key Outputs
-CLV distribution and segmentation
-Feature importance for CLV prediction
-Model performance metrics (R², RMSE, MAE)
-Quantified business impact and ROI
-Actionable recommendations for marketing and retention
+- CLV distribution and segmentation
+- Feature importance for CLV prediction
+- Model performance metrics (R², RMSE, MAE)
+- Quantified business impact and ROI
+- Actionable recommendations for marketing and retention
 
 ## Professional Practices
 - Clean code architecture and documentation
